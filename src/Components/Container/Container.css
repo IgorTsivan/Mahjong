@@ -1,0 +1,17 @@
+.Container{
+    background: #cecece;
+    text-align: center;
+    height: 100vh;
+}
+.Container h1{
+    padding: 10px;
+}
+.CardBlock{
+    display: flex;
+    justify-content: center;
+    flex-grow: 1;
+    flex-wrap: wrap;
+    flex-direction: row;
+    width: 620px;
+    margin: 0 auto;
+}
